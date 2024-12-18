@@ -1,1 +1,2 @@
-import numpy as np
+{existing_content}
+print("hello world")
